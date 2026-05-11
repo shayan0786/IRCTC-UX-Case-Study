@@ -1,19 +1,15 @@
-# OS Files
-.DS_Store
-Thumbs.db
+# Ignore Images
+*.png
+*.jpg
+*.jpeg
 
-# VS Code
-.vscode/
+# Ignore text/demo files
+*.txt
 
-# Temporary files
-*.tmp
-*.log
-
-# Node modules
-node_modules/
-
-# Figma exports cache
-*.fig
-
-# System files
-desktop.ini
+# Ignore old PDFs
+CA2_ IXD 802.pdf
+Design System.pdf
+Desktop - 1.pdf
+IA IRCTC.png
+IA.png
+demo mid.txt

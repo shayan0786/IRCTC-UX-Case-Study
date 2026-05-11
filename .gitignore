@@ -1,0 +1,19 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+
+# Node modules
+node_modules/
+
+# Figma exports cache
+*.fig
+
+# System files
+desktop.ini

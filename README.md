@@ -1,152 +1,78 @@
-\# 🚆 IRCTC Rail Connect – UI/UX Case Study
+# 🚆 IRCTC Rail Connect – UI/UX Case Study
 
+> A UI/UX redesign case study of the IRCTC Rail Connect mobile application created for the IXD802 UI & UX course at Lovely Professional University.
 
+---
 
-A UI/UX redesign case study of the IRCTC Rail Connect mobile application created for the \*\*IXD802 UI \& UX\*\* course at Lovely Professional University.
-
-
-
-\---
-
-
-
-\## 📌 Project Overview
-
-
+## 📌 Project Overview
 
 This project focuses on improving the train ticket booking experience through:
 
+- Information Architecture
+- Design System
+- Mid-Fidelity Wireframes
+- Heuristic Evaluation
 
+---
 
-\- Information Architecture (IA)
-
-\- Design System
-
-\- Mid-Fidelity Wireframes
-
-\- Heuristic-Based UX Improvements
-
-
-
-\---
-
-
-
-\## 📂 Deliverables
-
-
+## 📂 Deliverables
 
 | Deliverable | Description |
-
 |---|---|
+| Information Architecture | User flow from login to booking & payment |
+| Design System | Typography, colors, buttons, cards & components |
+| Mid-Fidelity Wireframes | Mobile booking flow wireframes designed in Figma |
 
-| Information Architecture | User flow from login to booking \& payment |
+---
 
-| Design System | Typography, colors, components, spacing |
+## 🖼 Included Screens
 
-| Mid-Fidelity Wireframes | Booking flow wireframes designed in Figma |
+- Login
+- Register
+- Home Dashboard
+- Search Train
+- Train Listing
+- Passenger Details
+- Payment
+- Booking Confirmation
 
+---
 
+## 🛠 Tools Used
 
-\---
+- Figma
+- UX Principles
+- Heuristic Evaluation
+- PDF Export
 
+---
 
+## 📁 Project Files
 
-\## 🖼 Included Screens
+```text
+INFORMATION ARCHITECTURE FOR IRCTC.pdf
+DESIGN SYSTEM FOR IRCTC.pdf
+IRCTC Rail Connect – Mid Fidelity Wireframes.pdf
+```
 
+---
 
+## 🎯 UX Goals
 
-\- Login
+- Simplify train booking flow
+- Improve navigation
+- Reduce cognitive load
+- Maintain consistency
 
-\- Register
+---
 
-\- Home Dashboard
+## 👨‍🎓 Academic Details
 
-\- Search Train
+Course: IXD802 – UI & UX  
+University: Lovely Professional University (LPU)
 
-\- Train Listing
+---
 
-\- Passenger Details
+## 👤 Author
 
-\- Payment
-
-\- Booking Confirmation
-
-
-
-\---
-
-
-
-\## 🛠 Tools Used
-
-
-
-\- Figma
-
-\- UX Design Principles
-
-\- Heuristic Evaluation
-
-\- PDF Export
-
-
-
-\---
-
-
-
-\## 🎯 UX Goals
-
-
-
-\- Simplify booking flow
-
-\- Improve navigation
-
-\- Reduce cognitive load
-
-\- Create consistent user experience
-
-
-
-\---
-
-
-
-\## 📁 Project Files
-
-
-
-\- `INFORMATION ARCHITECTURE FOR IRCTC.pdf`
-
-\- `DESIGN SYSTEM FOR IRCTC.pdf`
-
-\- `IRCTC Rail Connect – Mid Fidelity Wireframes.pdf`
-
-
-
-\---
-
-
-
-\## 👨‍🎓 Academic Details
-
-
-
-\*\*Course:\*\* IXD802 – UI \& UX  
-
-\*\*University:\*\* Lovely Professional University (LPU)
-
-
-
-\---
-
-
-
-\## 👤 Author
-
-
-
-\*\*Shayan Akhtar\*\*
-
+Shayan Akhtar

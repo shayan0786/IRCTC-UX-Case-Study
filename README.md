@@ -2,13 +2,21 @@
 
 
 
+A UI/UX redesign case study of the IRCTC Rail Connect mobile application created for the \*\*IXD802 UI \& UX\*\* course at Lovely Professional University.
+
+
+
+\---
+
+
+
 \## 📌 Project Overview
 
-This project is a UI/UX case study of the IRCTC Rail Connect mobile application created for the IXD802 UI \& UX course.
 
 
+This project focuses on improving the train ticket booking experience through:
 
-The objective of this project was to redesign and improve the user experience of the train ticket booking flow using:
+
 
 \- Information Architecture (IA)
 
@@ -16,35 +24,7 @@ The objective of this project was to redesign and improve the user experience of
 
 \- Mid-Fidelity Wireframes
 
-
-
-\---
-
-
-
-\# 📂 Project Deliverables
-
-
-
-\## 1️⃣ Information Architecture
-
-A structured flow showing the complete user journey from:
-
-\- Login / Register
-
-\- Train Search
-
-\- Passenger Details
-
-\- Payment
-
-\- Ticket Confirmation
-
-
-
-📄 File:
-
-\- INFORMATION ARCHITECTURE FOR IRCTC.pdf
+\- Heuristic-Based UX Improvements
 
 
 
@@ -52,35 +32,19 @@ A structured flow showing the complete user journey from:
 
 
 
-\## 2️⃣ Design System
-
-A reusable and consistent visual system designed for the IRCTC application.
+\## 📂 Deliverables
 
 
 
-Includes:
+| Deliverable | Description |
 
-\- Typography
+|---|---|
 
-\- Color Palette
+| Information Architecture | User flow from login to booking \& payment |
 
-\- Components
+| Design System | Typography, colors, components, spacing |
 
-\- Buttons
-
-\- Input Fields
-
-\- Cards
-
-\- Spacing System
-
-\- Iconography
-
-
-
-📄 File:
-
-\- DESIGN SYSTEM FOR IRCTC.pdf
+| Mid-Fidelity Wireframes | Booking flow wireframes designed in Figma |
 
 
 
@@ -88,23 +52,19 @@ Includes:
 
 
 
-\## 3️⃣ Mid-Fidelity Wireframes
-
-Wireframes designed to visualize the booking experience and application flow.
+\## 🖼 Included Screens
 
 
 
-Includes:
+\- Login
 
-\- Login Screen
-
-\- Register Screen
+\- Register
 
 \- Home Dashboard
 
 \- Search Train
 
-\- Train List
+\- Train Listing
 
 \- Passenger Details
 
@@ -114,41 +74,39 @@ Includes:
 
 
 
-📄 File:
-
-\- IRCTC Rail Connect – Mid Fidelity Wireframes.pdf
-
-
-
 \---
 
 
 
-\# 🛠 Tools Used
+\## 🛠 Tools Used
+
+
 
 \- Figma
-
-\- PDF Export
 
 \- UX Design Principles
 
 \- Heuristic Evaluation
 
+\- PDF Export
+
 
 
 \---
 
 
 
-\# 🎯 UX Goals
+\## 🎯 UX Goals
 
-\- Simplify train booking flow
+
+
+\- Simplify booking flow
 
 \- Improve navigation
 
 \- Reduce cognitive load
 
-\- Enhance usability and consistency
+\- Create consistent user experience
 
 
 
@@ -156,11 +114,15 @@ Includes:
 
 
 
-\# 👨‍🎓 Academic Details
+\## 📁 Project Files
 
-Course: IXD802 – UI \& UX  
 
-University: Lovely Professional University (LPU)
+
+\- `INFORMATION ARCHITECTURE FOR IRCTC.pdf`
+
+\- `DESIGN SYSTEM FOR IRCTC.pdf`
+
+\- `IRCTC Rail Connect – Mid Fidelity Wireframes.pdf`
 
 
 
@@ -168,7 +130,23 @@ University: Lovely Professional University (LPU)
 
 
 
-\# 📌 Author
+\## 👨‍🎓 Academic Details
 
-Shayan Akhtar
+
+
+\*\*Course:\*\* IXD802 – UI \& UX  
+
+\*\*University:\*\* Lovely Professional University (LPU)
+
+
+
+\---
+
+
+
+\## 👤 Author
+
+
+
+\*\*Shayan Akhtar\*\*
 
